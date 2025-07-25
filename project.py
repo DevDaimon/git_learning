@@ -12,3 +12,7 @@ def multiplication(a, b):
 
 def division(a, b):
     return a / b
+
+
+def low(word):
+    return word.lower()
